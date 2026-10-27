@@ -1,0 +1,6 @@
+﻿# Ignore local APK copies — upload via Releases only
+*.apk
+*.APK
+*.aab
+*.zip
+.DS_Store
